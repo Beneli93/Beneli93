@@ -12,10 +12,10 @@ Ich beschäftige mich mit **Data Analytics** und **Business Intelligence** und a
 
 | Bereich | Tools & Technologien |
 | :--- | :--- |
-| **Analyse & Programmierung** | <img src="https://cdn.jsdelivr.net" width="40" height="40" /> **Python** &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net" width="40" height="40" /> **Pandas** |
-| **Datenbanken** | <img src="https://cdn.jsdelivr.net" width="40" height="40" /> **SQL** |
+| **Analyse & Programmierung** | <img src="https://skillicons.dev" /> |
+| **Datenbanken** | <img src="https://skillicons.dev" /> |
 | **Visualisierung / BI** | 📊 **Power BI** &nbsp;&nbsp; 📈 **Excel** |
-|
+
 
 
 
