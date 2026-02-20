@@ -7,12 +7,12 @@ Ich beschäftige mich mit **Data Analytics** und **Business Intelligence** und a
 ---
 
 
-| Bereich | Tools & Technologien |
+**| Bereich | Tools & Technologien |
 | :--- | :--- |
 | **Analyse & Programmierung** | [![](https://img.shields.io)](#) [![](https://img.shields.io)](#) |
 | **Datenbanken** | [![](https://img.shields.io)](#) |
 | **Visualisierung / BI** | [![](https://img.shields.io)](#) [![](https://img.shields.io)](#) |
-
+**
 
 
 
