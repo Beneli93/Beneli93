@@ -1,23 +1,41 @@
-Hi, ich bin Benjamin 👋
+# Hi, ich bin Benjamin 👋
 
-Ich beschäftige mich mit Data Analytics und Business Intelligence und arbeite daran, Daten verständlich und nutzbar zu machen.
-Ich habe den IHK-Abschluss als Data Analyst erworben und mich intensiv mit Datenaufbereitung, Analyse und Visualisierung beschäftigt.
+### 📊 Data Analyst | Business Intelligence | Insights Driven
 
-In mehreren Praxisprojekten habe ich Datensätze bereinigt, strukturiert und ausgewertet, statistische Auswertungen in Python durchgeführt und die Ergebnisse in Power BI Dashboards übersetzt, sodass daraus konkrete Erkenntnisse entstehen.
+Ich beschäftige mich mit **Data Analytics** und **Business Intelligence** und arbeite daran, Daten verständlich und nutzbar zu machen. Nach meinem **IHK-Abschluss als Data Analyst** liegt mein Fokus darauf, komplexe Datensätze in klare Handlungsempfehlungen zu verwandeln.
 
-Ich komme ursprünglich aus dem kaufmännischen und vertriebsnahen Umfeld – deshalb interessiert mich besonders die Verbindung aus Daten, Prozessen und realen Geschäftsentscheidungen. Mein Ziel ist es, nicht nur Zahlen zu zeigen, sondern Zusammenhänge verständlich zu erklären.
+---
 
-🧰 Tools & Technologien
+### 🛠️ Mein Tech-Stack
 
-Python (Analyse & Auswertung)
 
-SQL (Datenabfragen & Strukturierung)
+| Bereich | Tools & Technologien |
+| :--- | :--- |
+| **Analyse & Programmierung** | ![Python](https://img.shields.io) ![Pandas](https://img.shields.io) |
+| **Datenbanken** | ![SQL](https://img.shields.io) |
+| **Visualisierung / BI** | ![Power Bi](https://img.shields.io) ![Excel](https://img.shields.io) |
 
-Power BI (Reporting & Dashboards)
+---
 
-Excel (Analyse & Aufbereitung)
+### 💡 Was mich auszeichnet
 
-💡 Was mich antreibt
+*   **Vom Vertrieb zu den Daten:** Durch meinen kaufmännischen Hintergrund verstehe ich nicht nur die Zahlen, sondern auch die **Geschäftsprozesse** dahinter.
+*   **Data Storytelling:** Mein Ziel ist es, Zusammenhänge so zu erklären, dass sie als Basis für **reale Entscheidungen** dienen können.
+*   **Hands-on Projektarbeit:** Von der Bereinigung unstrukturierter Daten in Python bis zum fertigen Power BI Dashboard.
 
-Ich arbeite gerne strukturiert, denke analytisch und tausche mich mit Fachbereichen aus, um Anforderungen zu verstehen und sinnvoll umzusetzen.
-Hier auf GitHub sammle ich Projekte, Lernfortschritte und Beispiele aus meiner Arbeit mit Daten.
+---
+
+### 📈 Meine Schwerpunkte
+- [x] Datenaufbereitung & Bereinigung (ETL)
+- [x] Statistische Auswertungen
+- [x] Erstellung interaktiver Reportings
+- [x] Schnittstelle zwischen Fachabteilung und IT
+
+---
+
+### 📫 Kontakt
+- **LinkedIn:** [Dein Profil-Link hier einfügen]
+- **Portfolio:** [Link zu deinem besten Projekt]
+
+---
+*„Ich zeige nicht nur Zahlen, ich erkläre Zusammenhänge.“*
