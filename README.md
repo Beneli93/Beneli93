@@ -49,7 +49,7 @@ Ich beschäftige mich mit **Data Analytics** und **Business Intelligence** und a
 ---
 
 ### 📫 Kontakt
-- **LinkedIn:** [Dein Profil-Link hier einfügen]
+- **LinkedIn:** [Dein Profil-Link hier einfügen]](https://www.linkedin.com/in/benjamin-aliov)
 - **Portfolio:** [Link zu deinem besten Projekt]
 
 ---
