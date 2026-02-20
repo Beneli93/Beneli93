@@ -12,9 +12,17 @@ Ich beschäftige mich mit **Data Analytics** und **Business Intelligence** und a
 
 | Bereich | Tools & Technologien |
 | :--- | :--- |
-| **Analyse & Programmierung** | <img src="https://skillicons.dev" /> |
-| **Datenbanken** | <img src="https://skillicons.dev" /> |
-| **Visualisierung / BI** | 📊 **Power BI** &nbsp;&nbsp; 📈 **Excel** |
+| **Analyse & Programmierung** | 🐍 **Python** (Pandas, NumPy) |
+| **Datenbanken** | 🗄️ **SQL** (PostgreSQL, MySQL) |
+| **Visualisierung / BI** | 📊 **Power BI** |
+| **Tabellenkalkulation** | 📈 **Microsoft Excel** |
+
+---
+
+### 💡 Mein Fokus
+*   **ETL-Prozesse:** Daten bereinigen und strukturieren.
+*   **Visualisierung:** Komplexe Zahlen in verständliche Dashboards verwandeln.
+*   **Business-Context:** Datengetriebene Entscheidungen ermöglichen.
 
 
 
