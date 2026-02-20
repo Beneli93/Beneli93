@@ -11,9 +11,10 @@ Ich beschäftige mich mit **Data Analytics** und **Business Intelligence** und a
 
 | Bereich | Tools & Technologien |
 | :--- | :--- |
-| **Analyse & Programmierung** | <img src="https://img.shields.io" /> <img src="https://img.shields.io" /> |
-| **Datenbanken** | <img src="https://img.shields.io" /> |
-| **Visualisierung / BI** | <img src="https://img.shields.io" /> <img src="https://img.shields.io" /> |
+| **Analyse & Programmierung** | ![Python](https://img.shields.io) ![Pandas](https://img.shields.io) |
+| **Datenbanken** | ![SQL](https://img.shields.io) |
+| **Visualisierung / BI** | ![Power BI](https://img.shields.io) ![Excel](https://img.shields.io) |
+
 
 
 ---
