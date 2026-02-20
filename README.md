@@ -50,7 +50,6 @@ Ich beschäftige mich mit **Data Analytics** und **Business Intelligence** und a
 
 ### 📫 Kontakt
 - **LinkedIn:** [https://www.linkedin.com/in/benjamin-aliov]
-- **Portfolio:** [Link zu deinem besten Projekt]
 
 ---
 *„Ich zeige nicht nur Zahlen, ich erkläre Zusammenhänge.“*
