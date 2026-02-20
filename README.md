@@ -7,11 +7,15 @@ Ich beschäftige mich mit **Data Analytics** und **Business Intelligence** und a
 ---
 
 
+### 🛠️ Mein Tech-Stack
+
+
 | Bereich | Tools & Technologien |
 | :--- | :--- |
-| **Analyse & Programmierung** | <img src="https://cdn.jsdelivr.net" width="30"/> **Python** &nbsp; <img src="https://cdn.jsdelivr.net" width="30"/> **Pandas** |
-| **Datenbanken** | <img src="https://cdn.jsdelivr.net" width="30"/> **SQL** |
-| **Visualisierung / BI** | 📊 **Power BI** &nbsp; 📈 **Excel** |
+| **Analyse & Programmierung** | ![Python](https://img.shields.io) ![Pandas](https://img.shields.io) |
+| **Datenbanken** | ![SQL](https://img.shields.io) |
+| **Visualisierung / BI** | ![Power BI](https://img.shields.io) ![Excel](https://img.shields.io) |
+
 
 
 
