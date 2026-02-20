@@ -17,6 +17,7 @@ Ich beschäftige mich mit **Data Analytics** und **Business Intelligence** und a
 
 
 
+
 ---
 
 ### 💡 Was mich auszeichnet
